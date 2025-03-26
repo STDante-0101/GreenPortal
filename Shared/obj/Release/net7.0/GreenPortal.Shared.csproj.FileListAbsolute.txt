@@ -1,0 +1,12 @@
+D:\RepositorioLocal\Shared\bin\Release\net7.0\GreenPortal.Shared.deps.json
+D:\RepositorioLocal\Shared\bin\Release\net7.0\GreenPortal.Shared.dll
+D:\RepositorioLocal\Shared\bin\Release\net7.0\GreenPortal.Shared.pdb
+D:\RepositorioLocal\Shared\obj\Release\net7.0\GreenPortal.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioLocal\Shared\obj\Release\net7.0\GreenPortal.Shared.AssemblyInfoInputs.cache
+D:\RepositorioLocal\Shared\obj\Release\net7.0\GreenPortal.Shared.AssemblyInfo.cs
+D:\RepositorioLocal\Shared\obj\Release\net7.0\GreenPortal.Shared.csproj.CoreCompileInputs.cache
+D:\RepositorioLocal\Shared\obj\Release\net7.0\GreenPortal.Shared.sourcelink.json
+D:\RepositorioLocal\Shared\obj\Release\net7.0\GreenPortal.Shared.dll
+D:\RepositorioLocal\Shared\obj\Release\net7.0\refint\GreenPortal.Shared.dll
+D:\RepositorioLocal\Shared\obj\Release\net7.0\GreenPortal.Shared.pdb
+D:\RepositorioLocal\Shared\obj\Release\net7.0\ref\GreenPortal.Shared.dll

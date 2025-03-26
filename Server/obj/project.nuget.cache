@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z055LirgSyk=",
+  "dgSpecHash": "ZDEDmP/J+Hg=",
   "success": true,
-  "projectFilePath": "D:\\RepositorioLocal\\GreenPortal\\Server\\GreenPortal.Server.csproj",
+  "projectFilePath": "D:\\RepositorioLocal\\Server\\GreenPortal.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arthas\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.19\\microsoft.aspnetcore.authorization.7.0.19.nupkg.sha512",
     "C:\\Users\\Arthas\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.19\\microsoft.aspnetcore.components.7.0.19.nupkg.sha512",

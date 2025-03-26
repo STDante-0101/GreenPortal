@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RepositorioLocal\\GreenPortal\\Shared\\GreenPortal.Shared.csproj": {}
+    "D:\\RepositorioLocal\\Shared\\GreenPortal.Shared.csproj": {}
   },
   "projects": {
-    "D:\\RepositorioLocal\\GreenPortal\\Shared\\GreenPortal.Shared.csproj": {
+    "D:\\RepositorioLocal\\Shared\\GreenPortal.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RepositorioLocal\\GreenPortal\\Shared\\GreenPortal.Shared.csproj",
+        "projectUniqueName": "D:\\RepositorioLocal\\Shared\\GreenPortal.Shared.csproj",
         "projectName": "GreenPortal.Shared",
-        "projectPath": "D:\\RepositorioLocal\\GreenPortal\\Shared\\GreenPortal.Shared.csproj",
+        "projectPath": "D:\\RepositorioLocal\\Shared\\GreenPortal.Shared.csproj",
         "packagesPath": "C:\\Users\\Arthas\\.nuget\\packages\\",
-        "outputPath": "D:\\RepositorioLocal\\GreenPortal\\Shared\\obj\\",
+        "outputPath": "D:\\RepositorioLocal\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

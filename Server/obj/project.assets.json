@@ -1317,11 +1317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RepositorioLocal\\GreenPortal\\Server\\GreenPortal.Server.csproj",
+      "projectUniqueName": "D:\\RepositorioLocal\\Server\\GreenPortal.Server.csproj",
       "projectName": "GreenPortal.Server",
-      "projectPath": "D:\\RepositorioLocal\\GreenPortal\\Server\\GreenPortal.Server.csproj",
+      "projectPath": "D:\\RepositorioLocal\\Server\\GreenPortal.Server.csproj",
       "packagesPath": "C:\\Users\\Arthas\\.nuget\\packages\\",
-      "outputPath": "D:\\RepositorioLocal\\GreenPortal\\Server\\obj\\",
+      "outputPath": "D:\\RepositorioLocal\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1343,11 +1343,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\RepositorioLocal\\GreenPortal\\Client\\GreenPortal.Client.csproj": {
-              "projectPath": "D:\\RepositorioLocal\\GreenPortal\\Client\\GreenPortal.Client.csproj"
+            "D:\\RepositorioLocal\\Client\\GreenPortal.Client.csproj": {
+              "projectPath": "D:\\RepositorioLocal\\Client\\GreenPortal.Client.csproj"
             },
-            "D:\\RepositorioLocal\\GreenPortal\\Shared\\GreenPortal.Shared.csproj": {
-              "projectPath": "D:\\RepositorioLocal\\GreenPortal\\Shared\\GreenPortal.Shared.csproj"
+            "D:\\RepositorioLocal\\Shared\\GreenPortal.Shared.csproj": {
+              "projectPath": "D:\\RepositorioLocal\\Shared\\GreenPortal.Shared.csproj"
             }
           }
         }
