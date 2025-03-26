@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GreenPortal.Client.props" />
+</Project>

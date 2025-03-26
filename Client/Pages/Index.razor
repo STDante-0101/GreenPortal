@@ -1,0 +1,69 @@
+﻿@page "/"
+@using GreenPortal.Shared.Models
+@using Newtonsoft.Json
+@inject HttpClient client
+
+
+<PageTitle>Index</PageTitle>
+
+<h1>Green Portal, Open!</h1>
+
+@if (characters is null)
+{
+    <p>Empty</p>
+
+}
+else if (characters.results.Count == 0)
+{
+    <p>Dados Empty</p>
+}
+else
+{
+    <div class="row">
+        @foreach (var character in characters.results)
+        {
+            <div class="col mt-3">
+                <div class="card">
+                    <img src="@character.image" class="card-img-top" alt="No image">
+                    <div class="card-body">
+                        <p class="card-text"><strong>@character.name</strong></p>
+                        <p class="card-text">@character.origin.name</p>
+                        <p class="card-text">@character.location.name</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    public Characters characters { get; set; } = null;
+
+    protected override Task OnInitializedAsync()
+    {
+        GetCharacters();
+        return base.OnInitializedAsync();
+    }
+
+    private async void GetCharacters()
+    {
+        try
+        {
+            var response = await client.GetAsync("api/characters/all");
+
+            if (response.IsSuccessStatusCode)
+            {
+                string responseBody = await response.Content.ReadAsStringAsync();
+
+                characters = JsonConvert.DeserializeObject<Characters>(responseBody);
+
+                StateHasChanged();
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+
+    }
+}
