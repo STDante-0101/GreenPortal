@@ -11,3 +11,4 @@ D:\RepositorioLocal\GreenPortal\Client\obj\Debug\net7.0\staticwebassets.build.js
 D:\RepositorioLocal\GreenPortal\Client\obj\Debug\net7.0\staticwebassets.build.json
 D:\RepositorioLocal\GreenPortal\Client\obj\Debug\net7.0\staticwebassets.build.json
 D:\RepositorioLocal\GreenPortal\Client\obj\Debug\net7.0\staticwebassets.build.json
+D:\RepositorioLocal\Client\obj\Debug\net7.0\staticwebassets.build.json

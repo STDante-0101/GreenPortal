@@ -1,7 +1,7 @@
 {
   "entryAssembly": "GreenPortal.Client",
   "resources": {
-    "hash": "sha256-zzwfugdC1I1h+E/nKNYh8x+a5asc10q0b/ua8Te1WzM=",
+    "hash": "sha256-QsP1DTdXaeCqEEk1Oyq+5+RJuGpdcLnZ04/abhzmn3Q=",
     "runtime": {
       "dotnet.js": "sha256-eaJTmow4t8eE7FZMZR5Ja41JMOefGCbIYDTdpclGsac=",
       "dotnet.timezones.blat": "sha256-gbATD5HDsHYtW8vdPYh9iSBY4O5CjvMeCSF5xXWF1xo=",
@@ -204,12 +204,12 @@
       "mscorlib.dll": "sha256-HYyp9hO+GKFyupcEiY1PxtBBXbHzefsO3Q8RiQTaNCA=",
       "netstandard.dll": "sha256-N5CcC3sLzGBesbmeJAp5bwxABN9u7SwkIO5qfFjzoik=",
       "System.Private.CoreLib.dll": "sha256-bJS1DJmhjP7PvegYG+Z8O9EDtRY78HKinA3LUMVLlSQ=",
-      "GreenPortal.Shared.dll": "sha256-7bhhCE3l3wg6xYHkEuBdbMItblSkVfDmmb4BNuMB2Wg=",
-      "GreenPortal.Client.dll": "sha256-ZHodIC3xCgvcB/pOhEhl1uU719cDwlIihfxKlld7a1A="
+      "GreenPortal.Shared.dll": "sha256-hdYMRatgW9wAYHpy/XwcNJNbAkO2mTeNJJ+vCT7agNM=",
+      "GreenPortal.Client.dll": "sha256-F3R+XYrntbxATAeSvRqp0VfYWbhgFnP3Rs9PoU5jhe8="
     },
     "pdb": {
-      "GreenPortal.Shared.pdb": "sha256-xYgaqWdp3BwRFxkQLxoMTq9k36z70xwXpdUDJwsA2uM=",
-      "GreenPortal.Client.pdb": "sha256-wJot8oGWzhh7XeWBqzsZKNIYY5ggsP/+e7EDfmf9KT4="
+      "GreenPortal.Shared.pdb": "sha256-5HTFcB5GpLn9QUH2HV66sgArZujSkTb56DOiuCIu3Zg=",
+      "GreenPortal.Client.pdb": "sha256-+uZuJn/jQBhl/nZNXYL52rLgTGoFgCF6f1KuLotne2E="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

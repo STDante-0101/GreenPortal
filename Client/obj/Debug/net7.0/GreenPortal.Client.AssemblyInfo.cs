@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenPortal.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5116a8310a8faaa2846a7dcd695e0afc3db97434")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+283d26cb83f4c55391c3ff3471759c59cedef6f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenPortal.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenPortal.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

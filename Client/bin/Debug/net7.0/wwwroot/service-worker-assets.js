@@ -1,24 +1,24 @@
 self.assetsManifest = {
-  "version": "uT8LuW1s",
+  "version": "yS+9OWJ3",
   "assets": [
     {
       "hash": "sha256-xkCnRhaPMpNG01wNFqdBe3/4ZTuEwrYzBzWUP9yK/h8=",
       "url": "GreenPortal.Client.styles.css"
     },
     {
-      "hash": "sha256-ZHodIC3xCgvcB/pOhEhl1uU719cDwlIihfxKlld7a1A=",
+      "hash": "sha256-F3R+XYrntbxATAeSvRqp0VfYWbhgFnP3Rs9PoU5jhe8=",
       "url": "_framework/GreenPortal.Client.dll"
     },
     {
-      "hash": "sha256-wJot8oGWzhh7XeWBqzsZKNIYY5ggsP/+e7EDfmf9KT4=",
+      "hash": "sha256-+uZuJn/jQBhl/nZNXYL52rLgTGoFgCF6f1KuLotne2E=",
       "url": "_framework/GreenPortal.Client.pdb"
     },
     {
-      "hash": "sha256-7bhhCE3l3wg6xYHkEuBdbMItblSkVfDmmb4BNuMB2Wg=",
+      "hash": "sha256-hdYMRatgW9wAYHpy/XwcNJNbAkO2mTeNJJ+vCT7agNM=",
       "url": "_framework/GreenPortal.Shared.dll"
     },
     {
-      "hash": "sha256-xYgaqWdp3BwRFxkQLxoMTq9k36z70xwXpdUDJwsA2uM=",
+      "hash": "sha256-5HTFcB5GpLn9QUH2HV66sgArZujSkTb56DOiuCIu3Zg=",
       "url": "_framework/GreenPortal.Shared.pdb"
     },
     {
@@ -782,7 +782,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.dll"
     },
     {
-      "hash": "sha256-gSmL81wHDIrzN51poOg0GBmXU+PWnkD2DUa5B2gotX8=",
+      "hash": "sha256-qGfAzHRv6Z1NbSyG9/s6NR2UbvHjX6W+L6mTB2iuAYU=",
       "url": "_framework/blazor.boot.json"
     },
     {
