@@ -1,0 +1,3 @@
+D:\RepositorioLocal\Shared\bin\Release\net7.0\publish\GreenPortal.Shared.dll
+D:\RepositorioLocal\Shared\bin\Release\net7.0\publish\GreenPortal.Shared.deps.json
+D:\RepositorioLocal\Shared\bin\Release\net7.0\publish\GreenPortal.Shared.pdb

@@ -830,11 +830,6 @@ D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\lw72260ai6-tjcz0u77k5.g
 D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\zyqqwrrx0w-tptq2av103.gz
 D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\6cza07cijx-lfu7j35m59.gz
 D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\opgb3yi61u-7cxe8oq9xu.gz
-D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\qyaf0ycsi5-u1b34y2gs9.gz
-D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\l29zjgpsuk-x1srdsk27a.gz
-D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\bcoif9087q-4xut3l1vk7.gz
-D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\ciexcdlh73-2poh97ejzj.gz
-D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\ualzrbreeq-k8applbh65.gz
 D:\RepositorioLocal\Client\obj\Release\net7.0\staticwebassets.build.json
 D:\RepositorioLocal\Client\obj\Release\net7.0\staticwebassets.development.json
 D:\RepositorioLocal\Client\obj\Release\net7.0\staticwebassets.build.endpoints.json
@@ -849,3 +844,8 @@ D:\RepositorioLocal\Client\obj\Release\net7.0\GreenPortal.Client.dll
 D:\RepositorioLocal\Client\obj\Release\net7.0\refint\GreenPortal.Client.dll
 D:\RepositorioLocal\Client\obj\Release\net7.0\GreenPortal.Client.pdb
 D:\RepositorioLocal\Client\obj\Release\net7.0\ref\GreenPortal.Client.dll
+D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\qyaf0ycsi5-ea0nduhv5v.gz
+D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\l29zjgpsuk-2uanwot2ed.gz
+D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\bcoif9087q-dbsrfm4ibm.gz
+D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\ciexcdlh73-x9t0v545h0.gz
+D:\RepositorioLocal\Client\obj\Release\net7.0\compressed\ualzrbreeq-e4o0ikdujm.gz

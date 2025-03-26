@@ -1,0 +1,2 @@
+D:\RepositorioLocal\Client\bin\Release\net7.0\publish\emcc-props.json
+D:\RepositorioLocal\Client\bin\Release\net7.0\publish\web.config
