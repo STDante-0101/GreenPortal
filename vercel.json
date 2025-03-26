@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "wwwroot/**",
+      "src": "publish/wwwroot/**",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/wwwroot/$1"
+      "dest": "/publish/wwwroot/$1"
     }
   ]
 }
